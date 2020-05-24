@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="whitesource" type="JSCS" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <removed_mapping pattern=".whitesource" approved="true" type="JSCS" />
+    </extensionMap>
+  </component>
+</application>
