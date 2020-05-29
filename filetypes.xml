@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="whitesource" type="JSCS" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <removed_mapping pattern=".whitesource" approved="true" type="JSCS" />
     </extensionMap>
   </component>
