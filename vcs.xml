@@ -6,8 +6,13 @@
           <option name="url" value="http://110.185.173.149:9001" />
           <option name="userName" value="farsana" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://110.185.173.149:9001/Edwin/team-5-e-commerce" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Lab_Banee\IntelliJ_Maven_Spring_Web" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
