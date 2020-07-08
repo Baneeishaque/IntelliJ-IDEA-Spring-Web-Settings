@@ -1,10 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping ext="form" type="PLAIN_TEXT" />
       <mapping ext="jasper" type="PLAIN_TEXT" />
+      <removed_mapping ext="form" approved="true" type="JFormDesigner_form" />
       <removed_mapping pattern=".whitesource" approved="true" type="JSCS" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="whitesource" type="JSCS" />
     </extensionMap>
   </component>

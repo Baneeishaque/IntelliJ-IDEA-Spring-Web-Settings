@@ -1,0 +1,43 @@
+<application>
+  <component name="JFormDesigner">
+    <entry key="lookandfeel.idea" value="com.intellij.ide.ui.laf.IntelliJLaf" />
+    <entry key="license.filechooser.lastdirpath" value="C:\Users\Administrator\Desktop" />
+    <entry key="license.filechooser.size" value="642, 326" />
+    <entry key="convertforms.extendcontainer" value="true" />
+    <node name="designer">
+      <node name="forms">
+        <entry key="selection-221384468" value="date_jdc" />
+        <entry key="selection-438143919" value="date_jtf" />
+        <entry key="selection-1490650691" value="fromdate_jdc,todate_jdc" />
+        <entry key="selection1988451631" value="todate_jdc,fromdate_jdc" />
+        <entry key="selection409703751" value="date_jdc" />
+        <entry key="selection812929238" value="date_jtf" />
+        <entry key="selection2100230841" value="dc_dob" />
+        <entry key="selection-677380345" value="dc_dob" />
+        <entry key="selection1731660394" value="fromdate_jdc,todate_jdc" />
+        <entry key="selection193441941" value="fromdate_jdc,todate_jdc" />
+        <entry key="selection-468186160" value="regdate_jdc" />
+        <entry key="selection367626221" value="regdate_jdc" />
+        <entry key="selection-1406649796" value="fromdate_jdc,todate_jdc" />
+        <entry key="selection2142113155" value="workOrderDate_jdc,deliveryDate_jdc" />
+        <entry key="selection-882906547" value="workOrderDate_jdc,deliveryDate_jdc" />
+        <entry key="selection-1954145299" value="fromdate_jdc,todate_jdc" />
+        <entry key="selection-1854946956" value="jobDate_jdc" />
+        <entry key="selection-237718404" value="jobDate_jdc" />
+        <entry key="selection1492074352" value="regdate_jdc" />
+        <entry key="selection5128579" value="invDate_jdc,dateOfSupply_jdc,purOrderDate_jdc" />
+        <entry key="selection-843060710" value="invDate_jdc,dateOfSupply_jdc,purOrderDate_jdc" />
+        <entry key="selection-194860169" value="fromdate_jdc,todate_jdc" />
+        <entry key="selection412706735" value="fromdate_jdc,todate_jdc" />
+        <entry key="selection424146589" value="regdate_jdc" />
+        <entry key="selection1911379264" value="regdate_jdc" />
+        <entry key="selection-620940348" value="dc_dob" />
+        <entry key="selection446110359" value="billdate_jdc" />
+        <entry key="selection1312267654" value="billdate_jdc" />
+        <entry key="selection-697726947" value="deliveryDate_jdc,orderDate_jdc" />
+        <entry key="selection1276363507" value="orderDate_jdc,deliveryDate_jdc" />
+        <entry key="selection558716935" value="fromdate_jdc,todate_jdc" />
+      </node>
+    </node>
+  </component>
+</application>
